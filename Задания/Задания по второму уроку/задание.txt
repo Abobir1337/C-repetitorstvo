@@ -1,0 +1,3 @@
+Пройти все задания с данного сайта!
+
+https://learngitbranching.js.org/?locale=ru_RU
